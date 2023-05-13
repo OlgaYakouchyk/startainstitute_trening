@@ -1,4 +1,4 @@
-package Homework;
+package globalHomework.Homework1;
 
 public class Homework1_task1 {
 
